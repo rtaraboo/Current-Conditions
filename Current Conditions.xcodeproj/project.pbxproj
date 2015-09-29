@@ -14,6 +14,7 @@
 		73607EC01BBAF501001DBF56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73607EBE1BBAF501001DBF56 /* LaunchScreen.storyboard */; };
 		73607ECB1BBAF502001DBF56 /* Current_ConditionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73607ECA1BBAF502001DBF56 /* Current_ConditionsTests.swift */; };
 		73607ED61BBAF502001DBF56 /* Current_ConditionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73607ED51BBAF502001DBF56 /* Current_ConditionsUITests.swift */; };
+		73607EE41BBB0215001DBF56 /* Lightning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73607EE31BBB0215001DBF56 /* Lightning.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		73607ED11BBAF502001DBF56 /* Current ConditionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Current ConditionsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73607ED51BBAF502001DBF56 /* Current_ConditionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Current_ConditionsUITests.swift; sourceTree = "<group>"; };
 		73607ED71BBAF502001DBF56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73607EE31BBB0215001DBF56 /* Lightning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lightning.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				73607EBC1BBAF501001DBF56 /* Assets.xcassets */,
 				73607EBE1BBAF501001DBF56 /* LaunchScreen.storyboard */,
 				73607EC11BBAF501001DBF56 /* Info.plist */,
+				73607EE31BBB0215001DBF56 /* Lightning.jpg */,
 			);
 			path = "Current Conditions";
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73607EE41BBB0215001DBF56 /* Lightning.jpg in Resources */,
 				73607EC01BBAF501001DBF56 /* LaunchScreen.storyboard in Resources */,
 				73607EBD1BBAF501001DBF56 /* Assets.xcassets in Resources */,
 				73607EBB1BBAF501001DBF56 /* Main.storyboard in Resources */,
